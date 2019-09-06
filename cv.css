@@ -1,0 +1,30 @@
+/*Stylesheet for ifeoluwa html*/
+
+#personal_information{
+     border-style:groove;
+     border-radius:5px;
+     text-align:center;
+}
+
+/*img is the child of the parent personal_information*/
+#personal_information>#picture{
+                           float:right;
+}
+
+main{
+     border-style:groove;
+     border-radius:5px;
+}
+.header {
+     color:green;
+}
+#messgae{
+	height: 200px;
+}
+#form-header{
+	text-align:center-left;
+	color:green;
+}
+.container{
+	float: left;
+}
